@@ -1,0 +1,10 @@
+ultralytics==8.2.12
+opencv-python==4.9.0.80
+pandas==2.2.2
+numpy==1.26.4
+fastapi==0.110.2
+uvicorn==0.29.0
+scikit-learn==1.4.2
+tqdm==4.66.2
+matplotlib==3.8.4
+xmltodict==0.13.0
